@@ -5,6 +5,7 @@ public class Characters {
     private int id;
     private String  name, alias, description, img, affiliation, created;
 
+
     public int getId() {
         return id;
     }
